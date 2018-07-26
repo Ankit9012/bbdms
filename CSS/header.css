@@ -1,0 +1,165 @@
+.headbar 
+{ 
+    position:absolute;
+    width:auto;
+    height:auto;
+    top: 50%;
+    right:0px;
+    z-index: 11111111111111111111111111111112000000000000;
+}
+.head
+{
+    position: fixed;
+    width:100%;
+    height: auto;
+    z-index: 2000000000000;
+    margin-left: -1%;
+    
+}
+.head .background
+{
+    background-color: black;
+}
+.m
+{
+    color:white;
+    text-decoration: none;
+    font-size:18px;
+    font-family:Tahoma;
+    letter-spacing: 0.6px;
+    font-weight: bold;
+}
+.logo
+{
+    position:relative;
+    margin-top: -3px;
+    margin-left: 15px;
+    width:auto;
+    height: auto;
+}
+.logot
+{
+    font-family: Geneva,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    font-size: 3.8vw;
+    color: #f1f0f0;
+    margin-left:12%;
+    margin-top: -69px;
+    position: relative;
+    width: auto;
+}
+.logoText
+{
+    padding-top: 7px;
+}
+
+.logoText2
+{
+     font-family: Geneva,Arial,Helvetica,sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: white;
+   
+   position: relative;
+   opacity:1;
+    z-index: 1222222;
+    
+}
+.menu2
+{
+    
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.smallMenu
+{
+    position: fixed;
+    background-color: #625F11;
+   
+    height: 90%;
+    width:30%;
+    min-width: 185px;
+    padding-top: 50px;
+    margin-left: -8px;
+    top: -8px;
+    border-right-width: 2px;
+    border-right-color: white;
+    border-right-style: ridge;
+    z-index: 1;
+transition: 4s;
+display: none;
+}
+.smallMenubtn
+{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    width: auto;
+    height: auto;
+    position: fixed;
+    top: 5%;
+    color: black;
+    margin-left: 90%;
+    z-index: 122222222222222222222;
+    display: none;
+}
+.smallMenubtn:active
+{
+    background-color: #625F11;
+}
+.smallMenubtn:hover
+{
+    background-color: chocolate;
+}
+.btnDonorReg
+{
+    border: none;
+    border-radius: 50px;
+    background-color: transparent;
+    padding-top : 15px;
+    padding-bottom : 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: maroon;
+    
+    
+}
+.btnDonorReg:hover
+{
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: darkblue;
+}
+.btnText
+{
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.btn3
+{
+    position: relative;
+    width: auto;
+    padding:15px;
+    background-color: red;
+    border: none;
+    
+}
+
+.btnSplit0:hover
+{
+    background-color: red;
+}
+.btnSplitMenuH0{
+  
+}
+
+
+

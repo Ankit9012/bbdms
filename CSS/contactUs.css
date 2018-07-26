@@ -1,0 +1,224 @@
+.ConBack
+{
+    height:100%;
+    width:auto;
+    min-height: 550px;
+    margin-left: -100px;
+    margin-top:-8px;
+    background-color: blue;
+
+}
+
+.bubble_text
+{
+
+    position: relative;
+
+    font-weight: bold;  
+    letter-spacing: 5px;
+    font-size: 100px;
+    font-family: Arial,Helvetica,sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    top: -10%;
+
+
+}
+.bubble_Text_msg
+{
+    position: relative;
+    color: white;
+    margin: 7%;
+    font-weight: 200;
+
+    font-family: Arial,Helvetica,sans-serif;
+    text-align: center;
+    font-size: 25px;
+    top: -43%;
+
+}
+.triangle-up {
+    width: 0;
+    height: 0;
+    position: relative;
+    top: -50%;
+    border-left: 100px solid transparent;
+    float: right;
+    border-top: 100px solid #34AB01 ;
+    margin-right: 8%;
+
+}
+.op1
+{
+    position: absolute;
+    background-color: #34AB01;
+    width: 42%; 
+    margin-left: -8px;
+    height: 150%;
+    padding: 60px
+}
+.op2
+{
+    position: absolute;
+    width: 42%;
+    height: 150%;
+    margin-left: 50%;
+    padding: 60px;
+    background-color: #34AB01;
+}
+.conOption
+{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+    position: relative;
+    margin-left: 26%;
+    top: -118px;
+
+
+
+}
+
+
+
+
+.slash2
+{
+       font-family: Geneva,Arial,Helvetica,sans-serif;
+    font-size: 50px;
+    color:white;
+    top: 300%;
+    position: absolute;
+    
+ margin-left: 5%;
+background-color: #34AB01;
+height: 40%;
+width: 35%;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.slash
+{
+    font-family: Geneva,Arial,Helvetica,sans-serif;
+    font-size: 103px;
+    color:white;
+    
+    
+   
+
+
+
+}
+.conAddress
+{
+    font-weight: 100;
+    color:white;
+    font-family: Arial,Helvetica,sans-serif;
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+
+}
+.moreCon
+{
+    font-weight: 100;
+    color:white;
+    font-family: Arial,Helvetica,sans-serif;
+
+}
+.conForm
+{
+    position: relative;
+    color:white;
+    font-size: 18px;
+    top: -105px;
+    width: 100%;
+    font-family: 'Times New Roman',Times,serif;
+}
+.conForm2
+{
+    position: relative;
+    color:white;
+    font-size: 16px;
+    top: -105px;
+    opacity:0.7;
+    width: 100%;
+
+
+}
+.conFormBox
+{
+    position: relative;
+    font-size: 20px;
+    padding: 12px;
+    top: -105px;
+    width:100%;
+    margin-bottom: 20px;
+   
+}
+
+.conPolicy
+{
+    position: relative;
+    color:white;
+    font-size: 18px;
+    margin-left: 25px;
+    top: -125px;
+    font-weight: bold;
+    font-family: 'Times New Roman',Times,serif;
+    cursor: pointer;
+}
+.check
+{
+    top: -105px;
+    position: relative;
+}
+.btnConSubmit
+{
+    position: relative;
+    top: -105px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Arial,Helvetica,sans-serif;
+    text-align: center;
+    border: none;
+    padding-left:  20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 25px;
+}
+.btnConSubmit:hover
+{
+    cursor: pointer;
+}
+.mapDraw
+{
+    position: absolute;
+    height: 118%;
+    width: 140%;
+    top: 250%;
+    margin-left: -8px;
+}
+.error
+{
+    position: relative;
+top: -87px;
+    border-left-width: 3px;
+    border-color: red; 
+    border-left-style: solid;
+    font-family: Verdana;
+    font-size: 14px; 
+    padding: 0px 5px 0px 10px;
+    background-color: whitesmoke;
+    width: 50%;
+    left: 46%;
+    color:black;
+    display: none;
+    
+}
